@@ -15,9 +15,9 @@
     - If you don't have one, e-Mail [me](mailto:jbennett@microsoft.com) 1) your shipping address, and 2) whether you'd like 1 or 2, and we'll ship it to you.
 - [ ] Install [Visual Studio Code](https://code.visualstudio.com/).
 - [ ] An active Microsoft Azure Subscription.
-    - If you're unsure whether you do, follow these [steps]() to determine this.
+    - If you're unsure whether you do, follow these [steps](/src/check-for-azure-subscription/readme.MD) to determine this.
     - If you don't, follow these [steps]() to request one.
     ```text
-    NOTE - The primary steps we'll take you through for this project will not necessarily require Azure consumption.  However,
-    you are required to have an active Azure subscription.
+    NOTE - The primary steps we'll take you through for this project will not necessarily require Azure consumption.
+    However, you are required to have an active Azure subscription.
     ```
