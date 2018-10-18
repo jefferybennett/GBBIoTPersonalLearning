@@ -18,6 +18,7 @@
     - If you're unsure whether you do, follow these [steps](/src/check-for-azure-subscription/readme.MD) to determine this.
     - If you don't, follow these [steps]() to request one.
     ```text
-    NOTE - The primary steps we'll take you through for this project will not necessarily require Azure consumption.
-    However, you are required to have an active Azure subscription.
+    NOTE - The primary steps we'll take you through for this project will not 
+    necessarily require Azure consumption.  However, you are required
+    to have an active Azure subscription.
     ```
