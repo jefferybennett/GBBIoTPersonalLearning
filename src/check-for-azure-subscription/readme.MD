@@ -4,7 +4,7 @@ Every service that runs in Microsoft Azure has to be associated to an active sub
 
 ### For Microsoft Employees
 
-These steps are only for full-time corporate Microsoft employees:
+These steps are only for full-time corporate Microsoft employees.
 
     - [ ] In a web browser, open [https://portal.azure.com](https://portal.azure.com) and, if you're not already, login.
     - [ ] In the Search field, at the top of the screen, type "Subscriptions".
