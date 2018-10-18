@@ -6,8 +6,8 @@ Every service that runs in Microsoft Azure has to be associated to an active sub
 
 These steps are only for full-time corporate Microsoft employees:
 
-    1.  In a web browser, open [https://portal.azure.com](https://portal.azure.com) and, if you're not already, login.
-    2.  In the Search field, at the top of the screen, type "Subscriptions".
+    - [ ] In a web browser, open [https://portal.azure.com](https://portal.azure.com) and, if you're not already, login.
+    - [ ] In the Search field, at the top of the screen, type "Subscriptions".
         - A results pane will display, click "Subscriptions" under the grouping "Services".
-    3.  Check to see if you have a subscription titled "Microsoft Azure Internal Consumption".
+    - [ ] Check to see if you have a subscription titled "Microsoft Azure Internal Consumption".
         - If you don't, you'll need to request one.
