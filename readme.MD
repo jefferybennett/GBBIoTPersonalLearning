@@ -41,4 +41,4 @@ The Global Black Belt IoT Personal Learning Project is an unique effort targeted
 
 #### Step 1
 
-- [ ] Begin with [Module 1](/Module%201-%201%20-%20-%20Choosing%20your%20Use%20Case/readme.MD) to choose your IoT use case for your personal learning project.
+- [ ] Begin with [Module 1](/Module 1 - Choosing your Use Case/readme.MD) to choose your IoT use case for your personal learning project.
