@@ -8,7 +8,7 @@
 
 ## What's an IoT Central App?
 
-Azure IoT Central organizes 
+Azure IoT Central 
 
 ### Navigate to the IoT Central Application Manager
 
@@ -39,11 +39,11 @@ As a builder, you use the Azure IoT Central UI to define your Microsoft Azure Io
 - [ ] Select the closest Azure region to you.
 - [ ] When you're finished and believe your entries are correct, click the Create button to finalize the app creation.
 
+![alt-text](src/images/IC-NewApplication.PNG)
+
 After your App is created, you'll be immediately logged into it.
 
 CONGRATULATIONS!  Your Azure IoT Central is now CREATED!
-
-![alt-text](src/images/IC-NewApplication.PNG)
 
 ## Next steps
 
