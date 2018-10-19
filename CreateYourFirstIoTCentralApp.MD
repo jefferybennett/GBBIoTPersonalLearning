@@ -23,7 +23,7 @@ The Application Manager enables you to both create new IoT Central Apps and to a
 - [ ] If you're not already, logon to the Application Manager using the correct credentials associated to your Microsoft Azure environment.
 - [ ] To start creating a new Azure IoT Central application, choose New Application:
 
-![alt-text](src/images/IC-ApplicationManager.PNG)
+![alt-text](src/images/IC-ApplicationManager.png)
 
 ### Complete the New Application form.
 
@@ -44,7 +44,7 @@ The Application Manager enables you to both create new IoT Central Apps and to a
 - [ ] Select the closest Azure region to you.
 - [ ] When you're finished and believe your entries are correct, click the Create button to finalize the app creation.
 
-![alt-text](src/images/IC-NewApplication.PNG)
+![alt-text](src/images/IC-NewApplication.png)
 
 After your App is created, you'll be immediately logged into it.
 
