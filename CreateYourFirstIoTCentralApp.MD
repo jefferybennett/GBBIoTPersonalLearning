@@ -48,7 +48,7 @@ The Application Manager enables you to both create new IoT Central Apps and to a
 
 After your App is created, you'll be immediately logged into it.
 
-CONGRATULATIONS!  Your Azure IoT Central is now CREATED!
+CONGRATULATIONS!!!  Your Azure IoT Central is now CREATED!
 
 ## Next steps
 
