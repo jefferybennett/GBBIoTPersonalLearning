@@ -13,8 +13,7 @@
 
 ## Overview
 
-There's just something about "getting hands on".  For humans and learning, there's simply nothing better.  No book, no video, no blog post
-can do improve upon direct empirical experience.
+There's just something about "getting hands on".  For humans and learning, there's simply nothing better.  No book, no video, no blog post can improve upon direct empirical experience.
 
 The Global Black Belt IoT Personal Learning Project is an unique effort targeted at non-developers (eg., executives, managers, sales people) to have a relatively quick, hands-on, no-code-required IoT experience that provides the participant the following:
 
