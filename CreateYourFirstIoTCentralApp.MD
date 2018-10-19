@@ -2,25 +2,26 @@
 
 - [Creating Your First IoT Central App](#creating-your-first-iot-central-app)
     - [What's an IoT Central App?](#whats-an-iot-central-app)
-    - [Create the IoT Central App](#create-the-iot-central-app)
+        - [Navigate to the IoT Central Application Manager](#navigate-to-the-iot-central-application-manager)
+        - [Create the New Application](#create-the-new-application)
     - [Next steps](#next-steps)
 
 ## What's an IoT Central App?
 
 Azure IoT Central organizes 
 
-## Create the IoT Central App
+### Navigate to the IoT Central Application Manager
 
 As a builder, you use the Azure IoT Central UI to define your Microsoft Azure IoT Central application. This quickstart shows you how to create an Azure IoT Central application that contains a sample device template and simulated devices.
 
 - [ ] Navigate to the [Azure IoT Central Application Manager](https://apps.azureiotcentral.com/) page.
-- [ ] Then enter the email address and password you use to access your Azure subscription.
+- [ ] If you're not already, logon to the Application Manager using the correct credentials associated to your Microsoft Azure environment.
 
-Enter your organization account
-
-To start creating a new Azure IoT Central application, choose New Application:
+- [ ] To start creating a new Azure IoT Central application, choose New Application:
 
 ![alt-text](src/images/IC-ApplicationManager.PNG)
+
+### Create the New Application
 
 - [ ] Choose the Paid payment plan.
     ```text
