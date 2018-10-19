@@ -22,6 +22,10 @@ The Global Black Belt IoT Personal Learning Project is an unique effort targeted
 - Direct experience with an IoT device and Microsoft Azure IoT Central.
 - A simple technical foundation to incorporate other Azure workloads into a live, working IoT demo environment
 
+> IMPORTANT
+> 
+> The IoT Personal Learning Project is not meant to be a lab whose instructions you simply follow.  The intent is for you to identify a simple IoT Use Case, related to something at work or home, which you and/or customers will find interesting.
+
 ## Getting Started
 
 ### What You'll Need
@@ -32,6 +36,8 @@ The Global Black Belt IoT Personal Learning Project is an unique effort targeted
 - [ ] An [MXCHIP IoT DevKit Board](http://mxchip.com/az3166).
     - Many of these boards have been given out over the last year, so check if you threw one in your bag and forgot about it.
     - If you don't have one, e-Mail [me](mailto:jbennett@microsoft.com) 1) your shipping address, and 2) whether you'd like 1 or 2, and we'll ship it to you.
+- [ ] A USB 2.0 to Micro B Male cable.
+    - This should come in the box for the MXChip board, but double-check.
 - [ ] Install [Visual Studio Code](https://code.visualstudio.com/).
 - [ ] An active Microsoft Azure Subscription.
     - If you're unsure whether you do, follow these [steps](CheckForAzureSubscription.MD) to determine this.
