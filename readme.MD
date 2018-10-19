@@ -46,7 +46,7 @@ The Global Black Belt IoT Personal Learning Project is an unique effort targeted
 
 #### Step 1 - Choose your Project Use Case
 
-- [ ] Begin with [Module 1](ChoosingYourUseCase.MD) to choose your IoT use case for your personal learning project.
+- [ ] Begin [here](ChoosingYourUseCase.MD) to choose your IoT use case for your personal learning project.
 
 #### Step 2 - Create your first IoT Central App
 
@@ -55,7 +55,6 @@ The Global Black Belt IoT Personal Learning Project is an unique effort targeted
 #### Step 3 - Connect your MXChip Board
 
 - [ ] Click [here](ConnectingTheMXChip.MD) to follow the steps to connect your MXChip board(s).
-
 
 #### Step 4 - Configure your Azure IoT Central App
 
