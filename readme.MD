@@ -2,10 +2,16 @@
 
 ## Overview
 
+There's just something about "getting hands on".  For humans and learning, there's simply nothing better.  No book, no video, no blog post
+can do improve upon direct empirical experience.
 
+The Global Black Belt IoT Personal Learning Project is an unique effort targeted at non-developers (eg, executives, managers, sales people) to have a relatively quick, hands-on, no-code-required IoT experience that provides the participant the following:
+
+- A personal narrative about IoT you can share with colleagues and customers
+- Direct experience with an IoT device and Microsoft Azure IoT Central.
+- A simple technical foundation to incorporate other Azure workloads into a live, working IoT demo environment
 
 ## Getting Started
-
 
 ### What You'll Need
 
@@ -22,3 +28,9 @@
     necessarily require Azure consumption.  However, you are required
     to have an active Azure subscription.
     ```
+
+### How to Begin
+
+#### Step 1
+
+Do something.
