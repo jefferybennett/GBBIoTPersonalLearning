@@ -40,10 +40,10 @@ The Global Black Belt IoT Personal Learning Project is an unique effort targeted
 - [ ] Install [Visual Studio Code](https://code.visualstudio.com/).
 - [ ] An active Microsoft Azure Subscription.
     - If you're unsure whether you do, follow these [steps](CheckForAzureSubscription.MD) to determine this.
-    - If you don't, follow these [steps]() to request one.
+    - If you don't, follow these [Fast Start](https://microsoft.sharepoint.com/teams/AIRS/BLOG/Pages/Fast%20Start.aspx) instructions to leverage the Azure Internal Registration System (AIRS) to request an internal billing account.
     > NOTE:
     >
-    > The primary steps we'll take you through for this project will not necessarily require Azure consumption.  However, you are required to have an active Azure subscription.
+    > The primary steps we'll take you through for this project will not necessarily require actual Azure consumption.  However, you are required to have an active Azure subscription.
 
 ### How to Begin
 
