@@ -19,7 +19,7 @@ To complete the steps in this article, you need the following:
 
 ## Add a real device to your App
 
-In your Azure IoT Central App, add a "real" device from the **MXChip** device template and make a note of the device connection details (Scope ID, Device ID, and Primary key).
+In your Azure IoT Central App, add a "real" device from the **MXChip** device template and make a note of the device connection details (Scope ID, Device ID, and Primary key).  You'll want to save these details temporarily in an application like Notepad for easy access as you go through this process.
 
 > Note:
 > 
@@ -29,7 +29,9 @@ In your Azure IoT Central App, add a "real" device from the **MXChip** device te
 
 ![alt-text](src/images/IC-CreateRealDevice.png)
 
-- [ ] Add a **real device** from Device Explorer, click on **+New > Real** to add a real device.
+- [ ] Add a **real device** in Azure IoT Central.
+    - [ ] If you're at your IoT Central Home Page, click "View All Devices".
+    - [ ] If you're on the Device Explorer, click on **+New > Real** to add a real device.
     - [ ] Enter the Device Id (should be lower case) or use the suggested Device Id.
     - [ ] Enter the Device Name or use the suggested name.
     ![alt-text](src/images/add-device.png)
